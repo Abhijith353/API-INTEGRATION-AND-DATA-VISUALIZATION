@@ -4,7 +4,7 @@ from datetime import datetime
 import json
 
 # Constants
-API_KEY = '315a2ee51537fbd09f26c864221eb36c'  # Replace with your actual OpenWeatherMap API key
+API_KEY = '315a2ee51537fbd09f26c864221eb36c'  #  OpenWeatherMap API key
 CITY = 'India'
 API_URL = 'https://api.openweathermap.org/data/2.5/forecast'
 
